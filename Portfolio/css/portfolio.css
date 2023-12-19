@@ -1,0 +1,23 @@
+body{font-family: 'Commissioner', sans-serif; color: white; background-color:#4162A7; font-size: 20px; font-weight: 400;}
+h1,h2{font-family: 'Alegreya bold', serif; color: #E27236;font-weight: bold;}
+h1{font-weight: 900; font-size: 3.5em; text-align: center}
+h2{ font-size: 1.5em;}
+.nav-link{font-size: 1em; color:#E27236}
+.nav-item{text-align: center;}
+.nav-links{font-size:1.7em; color: #E27236; line-height: 3;}
+footer{text-align: right}
+.background{font-family: 'Alegrya bold', serif; font-size: 3em; text-align: left; color:#E27236; font-weight: bold;}
+.goals{font-family: 'Alegrya bold', serif; font-size: 3em; text-align: left; color:#E27236;font-weight: bold;}
+.song{font-weight: bold;font-size: 1em;color: #E27236; text-align: justify; font-family:'Alegreya bold', serif;}
+.homepage{text-align: justify; margin: 3em 0;}
+.job{font-size: 2em; font-weight: bold;}
+.education{font-size: 2.4em; font-weight: bold;}
+.skills{font-size: 2.4em; font-weight: bold;}
+main,section{margin: 3em 0;}
+h3{font-style: italic; font-weight: bold; font-weight: 400;}
+h4{text-align: right;}
+span{display: block; font-style: italic; font-size: .6em; color:white;}
+@media(max-width:776px) {
+    h4{text-align: left;}}
+.resume p{padding:0 0 0 2em;}
+ul{list-style: none;}

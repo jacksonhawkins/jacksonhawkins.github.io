@@ -1,0 +1,17 @@
+body{background-color: #FCBA1A; font-family: 'Hedvig Letters Serif', serif; font-size: 1.5em;}
+h1{font-size: 3.5em;}
+h2{font-size: 2.8em;}
+h3{font-size: 2em;}
+h1,h2,h3{text-align: center; font-family: 'Oswald', sans-serif;}
+section{}
+footer{text-align: right; font-size: 10px;}
+.pics{}
+.MacLeft{align-items: flex-start;}
+.nav-link{font-size: 5px;}
+.graphic{
+    margin: 5%;
+    padding:5%;
+    background-color: #121212;
+}
+.graphic,h2,img {margin:5% 0;}
+img{margin:0 auto; display: block;}
